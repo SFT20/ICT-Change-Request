@@ -16,24 +16,20 @@ The following outlines the sequence in which this solution was developed,after w
      * Data Modelling
      * Security Modelling
      * ALM
-
+  3. ## Project Management and Project Governance
+     * Agile project methodology
     
-    
-    
-  3. 
-     
-    
+# Design Approach
+   * User interface wireframing
+   * The user interface was then transformed experiencially using Canvas Apps design object features
+   * The application functionalities were developed using Power Fx
+
+### Design view
 
 
-
-
-
-    
-    
-       Home Screen           |          Request Screen
+     Home creen           |          Request Screen
 
 ![Appscreen](https://github.com/user-attachments/assets/7e9bde52-8353-45a2-adfe-4c9750acd311)
 
 
-     
        
