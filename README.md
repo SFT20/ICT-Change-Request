@@ -31,5 +31,10 @@ The following outlines the sequence in which this solution was developed,after w
 
 ![Appscreen](https://github.com/user-attachments/assets/7e9bde52-8353-45a2-adfe-4c9750acd311)
 
+### Canvas View
+![Canvas-view](https://github.com/user-attachments/assets/2162629d-8535-429b-a063-a4b5210cbac5)
+
+
+
 
        
