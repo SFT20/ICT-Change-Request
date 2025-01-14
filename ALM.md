@@ -6,3 +6,8 @@
   * **Nestoil PLC:** This is the live instance, where all solution users are able to engage the developed solution and use for the daily purpose of making request to work from home as stated in the project overview
 ![ALM](https://github.com/user-attachments/assets/16966396-bd22-4d12-b443-bd48730f5314)
 
+## Environment Data Location
+All environment are deployed in the Europe region leveraging on that datacenter as that is where the data will be residing.
+
+## Deployment Model
+The deployment will follow the standard ALM process of pushing the solution from Dev - UAT - Production instance.
