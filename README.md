@@ -8,7 +8,32 @@ The Solution streamlines IT change management by automating processes and improv
 The following outlines the sequence in which this solution was developed,after which each element of the deployment will be documented accordingly.
   1. ## Business requirement document evaluation.
 
-    * Problem review
+     * Problem review
+     * Use case discovery
+     * Design conceptualization
+     * FitGap Analysis
+  2. ## Solution Design
+     * Data Modelling
+     * Security Modelling
+     * ALM
+
     
-       Home Screen           |          Request Screen         
+    
+    
+  3. 
+     
+    
+
+
+
+
+
+    
+    
+       Home Screen           |          Request Screen
+
+![Appscreen](https://github.com/user-attachments/assets/7e9bde52-8353-45a2-adfe-4c9750acd311)
+
+
+     
        
