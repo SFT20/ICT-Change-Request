@@ -63,13 +63,20 @@ Application User access the platform and by engaging with the "Start Request" bu
 ![Homescreen](https://github.com/user-attachments/assets/92caebe5-2cbf-4248-9e64-28aded426a65)
 
 
-## Request Screen
+### Request Screen
 
 Application User navigates from the Home Screen to the request form screen and the user is able to submit Change Request.
 ![RequestForm](https://github.com/user-attachments/assets/02ce08d4-bd2e-4269-9408-41efec47fe6e)
+
+### Success Screen
+
+Application user is been redirected to success screen if the Request form submission was successful.
+
 
 ## Power Automate Cloud Flow
 
 The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
 ![request-automation](https://github.com/user-attachments/assets/f33f82da-14e7-439d-a20c-f62a657c7ba9)
+
+## Thank You
 
