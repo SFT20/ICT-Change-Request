@@ -35,6 +35,11 @@ The following outlines the sequence in which this solution was developed,after w
 ![Canvas-view](https://github.com/user-attachments/assets/2162629d-8535-429b-a063-a4b5210cbac5)
 
 
+## Data Source
+
+### SharePoint Columns
+![Solution-Columns](Solution-Columns.PNG)
+
 
 
        
