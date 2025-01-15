@@ -60,6 +60,7 @@ The function used is called the Power Fx, and this was used in various part of t
 ### Home Screen
 
 Application User access the platform and by engaging with the "Start Request" button can go to the next screen to place a request.
+
 ![Homescreen](https://github.com/user-attachments/assets/92caebe5-2cbf-4248-9e64-28aded426a65)
 
 
@@ -77,6 +78,7 @@ Application user is been redirected to success screen if the Request form submis
 ## Power Automate Cloud Flow
 
 The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
+
 ![request-automation](https://github.com/user-attachments/assets/f33f82da-14e7-439d-a20c-f62a657c7ba9)
 
 ## Thank You
