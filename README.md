@@ -80,3 +80,4 @@ The function used is called the Power Fx, and this was used in various part of t
 
 ## Thank You
 
+![thank_you2](https://github.com/user-attachments/assets/50530ea9-ced0-496c-9e8d-b49f05486571)
