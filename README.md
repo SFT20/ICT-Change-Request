@@ -38,7 +38,9 @@ The following outlines the sequence in which this solution was developed,after w
 ## Data Source
 
 ### SharePoint Columns
-![Solution-Columns](Solution-Columns.PNG)
+![Solution-Columns](https://github.com/user-attachments/assets/Solution-Columns.PNG)
+
+![Solution-Columns](https://github.com/user-attachments/assets/85731d12-32b2-445c-84ea-cbc0c0f90cbc)
 
 
 
