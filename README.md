@@ -38,10 +38,38 @@ The following outlines the sequence in which this solution was developed,after w
 ## Data Source
 
 ### SharePoint Columns
-![Solution-Columns](https://github.com/user-attachments/assets/Solution-Columns.PNG)
 
 ![Solution-Columns](https://github.com/user-attachments/assets/85731d12-32b2-445c-84ea-cbc0c0f90cbc)
 
+## Solution Flow Chart
+### Canvas Apps Flow Chart
+
+This chart shows the user journey from process initiation till finish.
+
+![Canvas-flowchart](https://github.com/user-attachments/assets/b6e14b5e-9f5b-4d1b-8fd1-1cf4099dafe3)
+
+### Canvas Apps Flow Chart
+
+This flow charts shows the process model and journey of the implemented automation.
+
+![PA-flowchart](https://github.com/user-attachments/assets/6cd74907-b4d8-485d-b980-433f2e6383ca)
+
+## Canvas Apps Screens
+
+The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
+### Home Screen
+
+Application User access the platform and by engaging with the "Start Request" button can go to the next screen to place a request.
+![Homescreen](https://github.com/user-attachments/assets/92caebe5-2cbf-4248-9e64-28aded426a65)
 
 
-       
+## Request Screen
+
+Application User navigates from the Home Screen to the request form screen and the user is able to submit Change Request.
+![RequestForm](https://github.com/user-attachments/assets/02ce08d4-bd2e-4269-9408-41efec47fe6e)
+
+## Power Automate Cloud Flow
+
+The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
+![request-automation](https://github.com/user-attachments/assets/f33f82da-14e7-439d-a20c-f62a657c7ba9)
+
