@@ -16,8 +16,8 @@ The deployment will follow the standard ALM process of pushing the solution from
 ## Solution Strategy
 
 ### NomenClature
-  * **Publisher:**
-  * **Prefix:**
+  * **Publisher:** Fred
+  * **Prefix:**   Fred
 
     ![Solution_name](https://github.com/user-attachments/assets/72cbac11-332b-46c4-baa5-848ec6b44fb0)
 
