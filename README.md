@@ -48,7 +48,7 @@ This chart shows the user journey from process initiation till finish.
 
 ![Canvas-flowchart](https://github.com/user-attachments/assets/b6e14b5e-9f5b-4d1b-8fd1-1cf4099dafe3)
 
-### Canvas Apps Flow Chart
+### Power Automate Flow Chart
 
 This flow charts shows the process model and journey of the implemented automation.
 
